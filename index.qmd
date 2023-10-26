@@ -1,11 +1,11 @@
 ---
-title: "Template Revealjs Quarto site"
+title: "SheffieldR - Live Demo!"
 # format: revealjs
 author:
   - name: Your Name
-    orcid: 0000-0000-0000-0000
-    email: email@address.work
-    affiliations: Employers Name
+    orcid: 0000-0001-8301-6857
+    email: n.shephard@sheffield.ac.uk
+    affiliations: RSE, University of Sheffield
 from: markdown+emoji
 format:
   clean-revealjs:
